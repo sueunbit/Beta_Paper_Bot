@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+config.json
+notion_table.json
+state.sqlite3*
+output/
+__pycache__/
+*.pyc
+.venv/
+.paper_bot.lock
+*.zip

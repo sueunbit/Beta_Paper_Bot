@@ -1,0 +1,14 @@
+{
+  "keywords": [
+    "multi-omics machine learning",
+    "multi-omics deep learning",
+    "mass spectrometry imaging machine learning",
+    "mass spectrometry imaging deep learning",
+    "mass spectrometry imaging multi-omics integration"
+  ],
+  "interest": "Multi-omics와 mass spectrometry imaging의 AI 기반 분석. 데이터 통합, 특징 추출, 공간 패턴 분석 및 예측 모델에 관심이 있다. 검증 방식, 일반화 가능성, 데이터 누출 및 배치 효과에 주목한다.",
+  "from_date": "2025-01-01",
+  "max_papers": 3,
+  "candidates_per_keyword": 30,
+  "exclude_keywords": []
+}

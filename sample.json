@@ -1,0 +1,62 @@
+[
+  {
+    "doi": "10.18653/v1/N19-1423",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "publisher": "Association for Computational Linguistics",
+    "journal": "NAACL-HLT 2019",
+    "date": "2019-06",
+    "abstract": "",
+    "url": "https://aclanthology.org/N19-1423/",
+    "keywords": [
+      "bidirectional transformer"
+    ],
+    "type": "proceedings-article",
+    "source": "ACL Anthology 초록 확인 후 작성한 고정 데모 (2026-11-18)",
+    "sample_analysis": "어떤 연구인가 [초록]\n라벨 없는 텍스트의 좌우 문맥을 함께 활용해 언어 표현을 사전학습하는 BERT를 제안합니다. 사전학습 모델에 출력층을 추가하고 미세조정하여 여러 언어 이해 과제에 적용합니다.\n\n핵심 결과 [초록]\n11개 자연어 처리 과제에서 당시 최고 성능을 보고합니다. 초록에 제시된 GLUE 점수는 80.5, SQuAD v1.1 테스트 F1은 93.2입니다. 현재 모델 대비 우수성을 뜻하지 않습니다.\n\n저자가 명시한 한계\n초록에서 확인되지 않음. 전문의 실험 및 논의 확인이 필요합니다.\n\n추가 검토 사항 [해석 / 확인 질문]\n비교 모델과 사전학습 데이터·연산량 조건이 얼마나 비슷한가? 관심 도메인에서도 같은 개선을 얻을 수 있는가? 이는 확인할 질문이며, 확인된 연구 결함이 아닙니다.\n\n주목할 점 [해석]\n양방향 문맥 활용과 과제별 미세조정의 역할을 구분해서 읽으세요. 성능 수치를 읽을 때 데이터셋·평가지표·비교 조건을 함께 확인하세요.\n\n관심 주제와의 연결 [해석]\n사전학습된 언어 모델을 다운스트림 과제에 적용하는 방법을 이해하는 출발점으로 활용할 수 있습니다.\n\n근거: ACL Anthology 논문 페이지의 Abstract. 전문 미확인.\n이 분석은 실행 시 생성된 AI 응답이 아니라, 초록을 확인해 미리 작성한 데모 예시입니다."
+  },
+  {
+    "doi": "10.3390/demo-fixture-only",
+    "title": "[합성 테스트] MDPI 제외 확인",
+    "publisher": "MDPI AG",
+    "journal": "NAACL-HLT 2019",
+    "date": "2019-06",
+    "abstract": "",
+    "url": "https://aclanthology.org/N19-1423/",
+    "keywords": [
+      "bidirectional transformer"
+    ],
+    "type": "proceedings-article",
+    "source": "ACL Anthology 초록 확인 후 작성한 고정 데모 (2026-11-18)",
+    "sample_analysis": ""
+  },
+  {
+    "doi": "10.18653/v1/N19-1423",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "publisher": "Association for Computational Linguistics",
+    "journal": "NAACL-HLT 2019",
+    "date": "2019-06",
+    "abstract": "",
+    "url": "https://aclanthology.org/N19-1423/",
+    "keywords": [
+      "bidirectional transformer"
+    ],
+    "type": "proceedings-article",
+    "source": "ACL Anthology 초록 확인 후 작성한 고정 데모 (2026-11-18)",
+    "sample_analysis": "어떤 연구인가 [초록]\n라벨 없는 텍스트의 좌우 문맥을 함께 활용해 언어 표현을 사전학습하는 BERT를 제안합니다. 사전학습 모델에 출력층을 추가하고 미세조정하여 여러 언어 이해 과제에 적용합니다.\n\n핵심 결과 [초록]\n11개 자연어 처리 과제에서 당시 최고 성능을 보고합니다. 초록에 제시된 GLUE 점수는 80.5, SQuAD v1.1 테스트 F1은 93.2입니다. 현재 모델 대비 우수성을 뜻하지 않습니다.\n\n저자가 명시한 한계\n초록에서 확인되지 않음. 전문의 실험 및 논의 확인이 필요합니다.\n\n추가 검토 사항 [해석 / 확인 질문]\n비교 모델과 사전학습 데이터·연산량 조건이 얼마나 비슷한가? 관심 도메인에서도 같은 개선을 얻을 수 있는가? 이는 확인할 질문이며, 확인된 연구 결함이 아닙니다.\n\n주목할 점 [해석]\n양방향 문맥 활용과 과제별 미세조정의 역할을 구분해서 읽으세요. 성능 수치를 읽을 때 데이터셋·평가지표·비교 조건을 함께 확인하세요.\n\n관심 주제와의 연결 [해석]\n사전학습된 언어 모델을 다운스트림 과제에 적용하는 방법을 이해하는 출발점으로 활용할 수 있습니다.\n\n근거: ACL Anthology 논문 페이지의 Abstract. 전문 미확인.\n이 분석은 실행 시 생성된 AI 응답이 아니라, 초록을 확인해 미리 작성한 데모 예시입니다."
+  },
+  {
+    "doi": "10.0000/fixture-only",
+    "title": "[합성 테스트] 출판사 누락 보류 확인",
+    "publisher": "",
+    "journal": "NAACL-HLT 2019",
+    "date": "2019-06",
+    "abstract": "",
+    "url": "https://aclanthology.org/N19-1423/",
+    "keywords": [
+      "bidirectional transformer"
+    ],
+    "type": "proceedings-article",
+    "source": "ACL Anthology 초록 확인 후 작성한 고정 데모 (2026-11-18)",
+    "sample_analysis": ""
+  }
+]
